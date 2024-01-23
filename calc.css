@@ -86,4 +86,9 @@ form input.equal{
         font-family: 'Times New Roman', Times, serif;
     
     }
+    .ash{
+        background-color: rgb(150, 122, 122);
+        text-align: center;
+        color: black;
+    }
 }
